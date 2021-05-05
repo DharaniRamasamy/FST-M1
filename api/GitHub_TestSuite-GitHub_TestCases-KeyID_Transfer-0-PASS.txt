@@ -1,0 +1,12 @@
+Status: PASS
+Time Taken: 119
+Size: 0
+Timestamp: Wed May 05 10:03:46 IST 2021
+TestStep: KeyID Transfer
+
+----------------- Messages ------------------------------
+Performed transfer [KeyId]
+----------------------------------------------------
+KeyId transferred [[52676707]] from [POST request.Response] to [DELETE request.keyID]
+------------ source path -------------
+$.id

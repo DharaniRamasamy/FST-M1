@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="IBMFST-API Project" soapui-version="6.0.0" cid="a0a39674-d1e5-4445-a6a1-541030907677" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="GitHub Project">C:/Users/DharaniRamasamy/IBM FST Workspace/GitHub-Project-soapui-project.xml</con:project>
+  <con:expandedTreeNodes>
+    <con:project path="C:\Users\DharaniRamasamy\IBM FST Workspace\GitHub-Project-soapui-project.xml"/>
+  </con:expandedTreeNodes>
+  <con:overridenPropertyValuesCollection/>
+</con:soapui-workspace>
